@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecionando...</title>
+    <style>
+        body {
+            background-image: url('nome-da-imagem.jpg'); /* Substitua pelo nome do arquivo da sua imagem */
+            background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
+            background-position: center; /* Centraliza a imagem */
+        }
+    </style>
+    <script type="text/javascript">
+        setTimeout(function() {
+            window.location.href = 'https://wa.me/55NUMERO_DO_TELEFONE';
+        }, 3000); // Redireciona após 3 segundos
+    </script>
+</head>
+<body>
+    <p>Você está sendo redirecionado para o WhatsApp. Aguarde...</p>
+</body>
+</html>
