@@ -13,7 +13,7 @@
     </style>
     <script type="text/javascript">
         setTimeout(function() {
-            window.location.href = 'https://wa.me/55NUMERO_DO_TELEFONE';
+            window.location.href = 'https://wa.me/5581998614508';
         }, 3000); // Redireciona após 3 segundos
     </script>
 </head>
